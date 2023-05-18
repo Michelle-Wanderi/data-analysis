@@ -1,0 +1,7 @@
+describe function applies basic statistical computations on the dataset like extreme values, count of data points standard deviation etc
+
+Grouping data
+Group by is an interesting measure available in pandas which can help us figre out effect of different categorical attributes on the other variables
+example
+df.groupby(['education', 'vote']). mean()
+Groups the data by their mean

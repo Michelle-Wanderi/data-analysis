@@ -1,0 +1,13 @@
+Data mining - we discuss knowledge discovery from Data, it includes knowing about data, finding relations between data and for this we need to discuss data objects and attributes
+
+
+Data preprocessing
+the first step is to identify the type of attributes , we differentiate between different types of attributes and the preprocess the data
+Here is the description of attribute types
+1. Qualitative (Nominal(N), Ordinal(O), Binary(B))
+2. Quantitative (Numeric, Discrete, Continuous)
+
+Nominal - names of things
+Binary - has only two values/states eg yes/no true/false male/female
+Ordinal - contains values that have meaningful sequence or ranking order betwwn them eg A-Z 
+NUmeric - integer or real values. 
